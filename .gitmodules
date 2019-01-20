@@ -1,0 +1,3 @@
+[submodule "voice-statistics"]
+	path = voice-statistics
+	url = git@github.com:voice-statistics/voice-statistics.github.com.git
